@@ -1,0 +1,145 @@
+.body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    
+    
+    }
+.header {
+    width: 100%;
+    margin: 0;
+    float: left;
+}
+.header #logotip
+{
+    width: 10%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+.header #devis
+{
+    width: 50%;
+    float: left;
+    margin-top: 2%;
+    font-size: 5em;
+    font-family: Kunstler Script;
+    font: sans-serif;
+    margin-left: ;
+}
+.header #menu
+{
+    width: 39%;
+    float: left;
+    margin-top: 2%;
+}
+.header #menu a
+{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 50px;
+    font: sans-serif;
+    font-family: Gabriola;
+    color: #801818;
+}
+.clear
+{
+    clear: both;
+}
+
+.div1{
+    height: 550px;
+    width: 100%;
+    background: #fff5ee;
+}
+.h1{
+    font: sans-serif;
+   font-family:Courier New;
+   color: #801818;
+   font-weight: bolder;
+   font-size: 35px; 
+    margin-bottom: 0;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+}
+.text{
+    font:sans-serif; 
+    font-family:Courier New;
+    font-weight: bold;
+}
+.div2{
+    width: 30%;
+    height: 471px;
+    float: left;
+     background: #fff5ee;    
+        }
+.div2 #cap {
+     font: sans-serif;
+   font-family:Courier New;
+   color: #801818;
+    font-weight: 100;
+    font-size: 25px;
+}
+.div2 #cap p{
+    font:sans-serif; 
+    font-family:Courier New;
+    font-weight: bold;
+    color: #1e1e1e;
+    font-size: 15px;
+}
+.div3{
+    width: 70%;
+    height: 401px;
+    float: left;
+     background: #fff5ee;
+    margin-top: 70px;
+} 
+.result_send{
+    margin-bottom: 0;
+    margin-top: 0;
+    font: sans-serif;
+    font-family:Courier New;
+    text-align: center;
+}
+.div_map
+{
+ height: 350px
+}
+
+.footer
+{
+    width: 98%;
+    float: left;
+    padding: 1%;
+    background-color: #1e1e1e;   
+}
+.footer #prava
+{
+    width: 30%;
+    float: left;
+    color: white;
+}
+.footer #menu
+{
+    float: left;
+    width: 40%
+}
+.footer #menu p
+{
+    margin-left: 20px;
+    float: left;
+    font: 30px sans-serif;
+    font-family: Gabriola; 
+    color: white;
+}
+
+
+.footer #nomer
+{
+    width: 28%;
+    float: left;
+    text-align: center;
+    color: white;
+}
